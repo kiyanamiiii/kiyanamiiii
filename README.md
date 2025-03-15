@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kiyanamiiii
+- 👀 I’m interested in a Job/Internship
+- 🌱 I’m currently learning postgreSQL, Angular, CSS, Java and some Frameworks like Springboot and Bootstrap
+- 📫 How to reach me: enzoanami@gmail.com
