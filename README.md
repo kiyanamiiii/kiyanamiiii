@@ -10,18 +10,14 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Currently studying at **IFSC - Gaspar** (Technical High School in Informatics)  
-- 🎯 Also attending **+Devs2Blu Program** focused on Full-Stack Development  
-- 💡 Strong interest in **Front-End** (HTML, CSS, JS) and starting with **React.js**  
-- 🌱 Currently learning: **JavaScript**, **Java**, **HTML/CSS**  
-- 🚀 Goal: Land an **internship** to grow as a developer and collaborate on real projects  
-- 📈 Long-term: Become a Full-Stack Developer with solid backend & frontend experience  
+- Currently studying at **IFSC - Gaspar** (Technical High School in Informatics)  
+- Also attending **+Devs2Blu Program** focused on Full-Stack Development  
+- Strong interest in **Front-End** (HTML, CSS, JS) and starting with **React.js**  
+- Currently learning: **JavaScript**, **Java**, **HTML/CSS**  
+- Goal: Land an **internship** to grow as a developer and collaborate on real projects  
+- Long-term: Become a Full-Stack Developer with solid backend & frontend experience  
 
 ---
-
-## 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -38,15 +34,13 @@
 
 ---
 
-## 📚 Education
-
-**🎓 IFSC – Instituto Federal de Santa Catarina (Gaspar, SC)**  
+** IFSC – Instituto Federal de Santa Catarina (Gaspar, SC)**  
 Technical High School in Informatics | **Feb 2023 – Dec 2025 (in progress)**  
 - C++, Java, HTML, CSS, JavaScript, SQL  
 - Unity 2D/3D, Adobe tools  
 
-**🚀 +Devs2Blu – Blusoft/Senac (Blumenau, SC)**  
-Complementary Full-Stack Training | **Sep 2024 – May 2025 (in progress)**  
+** +Devs2Blu – Blusoft/Senac (Blumenau, SC)**  
+Complementary Full-Stack Training | **Finished**
 - JavaScript, React, Angular, MongoDB, PostgreSQL, Spring Boot  
 - Agile, Scrum, OOP, Software Architecture  
 - Intermediate/advanced English
