@@ -34,12 +34,12 @@
 
 ---
 
-** IFSC – Instituto Federal de Santa Catarina (Gaspar, SC)**  
+**IFSC – Instituto Federal de Santa Catarina (Gaspar, SC)**  
 Technical High School in Informatics | **Feb 2023 – Dec 2025 (in progress)**  
 - C++, Java, HTML, CSS, JavaScript, SQL  
 - Unity 2D/3D, Adobe tools  
 
-** +Devs2Blu – Blusoft/Senac (Blumenau, SC)**  
+**+Devs2Blu – Blusoft/Senac (Blumenau, SC)**  
 Complementary Full-Stack Training | **Finished**
 - JavaScript, React, Angular, MongoDB, PostgreSQL, Spring Boot  
 - Agile, Scrum, OOP, Software Architecture  
