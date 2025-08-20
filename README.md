@@ -1,6 +1,10 @@
 # I'm KiYanami
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/kiyanamiiii?label=Seguir&style=social" alt="Seguidores"/>
   <a href="mailto:enzoanami@gmail.com"><img src="https://img.shields.io/badge/Email-enzoanami%40gmail.com-blue?style=flat&logo=gmail" alt="email"/></a>
 </p>
