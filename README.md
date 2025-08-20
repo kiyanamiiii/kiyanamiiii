@@ -18,6 +18,9 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
 </p>
 
 ## Main Projects
@@ -27,7 +30,7 @@
 - **cachacaria-wilbert-pi-2025.2** — HTML  
 - **testes-junit** — Java, JUnit  
 
-## Contato
+## How Contact Me
 
 - Email: enzoanami@gmail.com  
 - LinkedIn: [Enzo Kiyoshi Anami](https://www.linkedin.com/in/enzo-kiyoshi-anami-reigoza-b18968325)
