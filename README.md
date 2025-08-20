@@ -1,7 +1,7 @@
 # I'm KiYanami
 
 <p align="center">
-  <img src="URL_DO_GIF" alt="Gato Pixelado Dormindo" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp5ZWNhem9hbzdvNmt3Zzhvb3A4MWI3dTR3ODd6d2pjemF5d2l2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="" width="200"/>
 </p>
 
 <p align="center">
