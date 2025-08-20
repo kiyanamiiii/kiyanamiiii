@@ -45,7 +45,7 @@
 <td>
 
 <p align="center">
-  <img src="https://tenor.com/view/cat-pixel-cats-night-sleep-gif-8157715650473876548" alt="Gato Pixelado Dormindo" width="120"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFvYno0bzcydXVqZHh0a2lra29xMnZkZmdzcTZ0MXVsZGw0bzYwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RWuFgvgH038kzgCKIT/giphy.gif" alt="Gato Pixelado Dormindo" width="120"/>
 </p>
 
 </td>
