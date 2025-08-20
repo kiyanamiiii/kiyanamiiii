@@ -33,9 +33,21 @@
 
 ## How Contact Me
 
+<table>
+<tr>
+<td>
+
 - Email: enzoanami@gmail.com  
 - LinkedIn: [Enzo Kiyoshi Anami](https://www.linkedin.com/in/enzo-kiyoshi-anami-reigoza-b18968325)
 - (+55) 47 99750-1758
+
+</td>
+<td>
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDcyNWRmNDF4amtid3Q2cDdwOWV4d2R6YWQ0NGo2M2psMnY2NHVoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="" width="200"/>
+  <img src="https://tenor.com/view/cat-pixel-cats-night-sleep-gif-8157715650473876548" alt="Gato Pixelado Dormindo" width="120"/>
 </p>
+
+</td>
+</tr>
+</table>
