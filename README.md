@@ -26,9 +26,9 @@
 
 ## Main Projects
 
-- **agenda-eletronica-docker** — TypeScript, Docker  
-- **BlogAppWeb** — HTML, CSS  
-- **cachacaria-wilbert-pi-2025.2** — HTML  
+- **agenda-eletronica-docker** — React, Docker  
+- **BlogAppWeb** — HTML, CSS, Bootstrap, Java, Springboot
+- **cachacaria-wilbert-pi-2025.2** — HTML, CSS, Javascript, ...  
 - **testes-junit** — Java, JUnit  
 
 ## How Contact Me
